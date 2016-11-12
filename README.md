@@ -6,7 +6,7 @@ A workflow for [Alfred 2](http://www.alfredapp.com). This workflow allows you to
 
 1. Download the extension here: [donwload](https://github.com/rakuishi/alfred-workflow-window-resizer/raw/master/Window%20Resizer.alfredworkflow)
 1. Double click the downloaded "Window Resizer.alfredworkflow" file to install.
-1. Allow alfred to access assistive access.  
+1. Allow alfred to access 'assistive access'.  
 System Preferences -> Security & Privacy -> Privacy -> Accessibility
 
 ## Usage
