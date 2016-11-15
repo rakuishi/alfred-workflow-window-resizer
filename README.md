@@ -13,8 +13,14 @@ System Preferences -> Security & Privacy -> Privacy -> Accessibility
 
 Of course, you can change these shortcuts for your own usage.
 
-Shortcut | Screenshot
---- | ---
-`⌥ Option + 1` | <img src="https://raw.githubusercontent.com/rakuishi/alfred-workflow-window-resizer/master/.github/screenshot1.png" width="720">
-`⌥ Option + 2` | <img src="https://raw.githubusercontent.com/rakuishi/alfred-workflow-window-resizer/master/.github/screenshot2.png" width="720">
-`⌥ Option + 3` | <img src="https://raw.githubusercontent.com/rakuishi/alfred-workflow-window-resizer/master/.github/screenshot3.png" width="720">
+- ⌥ Option + 1
+
+<img src="https://raw.githubusercontent.com/rakuishi/alfred-workflow-window-resizer/master/.github/screenshot1.png" width="480">
+
+- ⌥ Option + 2
+
+<img src="https://raw.githubusercontent.com/rakuishi/alfred-workflow-window-resizer/master/.github/screenshot2.png" width="480">
+
+- ⌥ Option + 3
+
+<img src="https://raw.githubusercontent.com/rakuishi/alfred-workflow-window-resizer/master/.github/screenshot3.png" width="480">
